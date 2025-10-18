@@ -7,7 +7,7 @@ A comprehensive C++ console-based application for managing university admissions
 - **🏫 Campus Allocation** - Automated preference system
 - **🎨 Colorful UI** - Engaging console interface
 
-  # 5. Usage Guide
+  #  Usage Guide
 
 # 🚀 Usage
 1. **Select Role** - Choose Admin or Student
